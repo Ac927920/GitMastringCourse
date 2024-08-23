@@ -31,6 +31,9 @@ class MainActivity : AppCompatActivity() {
     // Working Tree Clean Means not Changes on main branch to local branch.
 
     git diff <branchname> = Show Differences between parents and children.
+
+    git diff --staged =
+    git reset --soft HEAD^ = Undo last commit but keep changes.
 *
 *
 *
