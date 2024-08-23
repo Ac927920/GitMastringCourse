@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
 
     git diff --staged =
     git reset --soft HEAD^ = Undo last commit but keep changes.
+
 *
 *
 *

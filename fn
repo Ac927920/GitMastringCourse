@@ -1,0 +1,23 @@
+[33mcommit 7281c250249b6bb4d5f550731bf4568c5d97ef7d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-branch[m[33m, [m[1;31morigin/new-branch[m[33m)[m
+Author: Abhishek Chandra <ac927920@gmail.com>
+Date:   Fri Aug 23 13:10:39 2024 +0530
+
+    added diff and reset
+
+[33mcommit 91d094ff4ae6ac87173d67b361de94ad9b4e08af[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/First-Branch[m[33m, [m[1;32mnewbranch[m[33m, [m[1;32mmain[m[33m, [m[1;32mfirstBranch[m[33m)[m
+Author: Abhishek Chandra <ac927920@gmail.com>
+Date:   Fri Aug 23 12:56:53 2024 +0530
+
+    Basic Git Commands
+
+[33mcommit 4f5dc48e97effb0d58b0d11c1052f5d3e42d6951[m
+Author: Abhishek Chandra <93418000+Ac927920@users.noreply.github.com>
+Date:   Fri Aug 23 12:22:53 2024 +0530
+
+    Create README.md
+
+[33mcommit ca259ac3b7542aac2b332c78b75b6ef7dd0beeae[m
+Author: Abhishek Chandra <ac927920@gmail.com>
+Date:   Fri Aug 23 12:14:10 2024 +0530
+
+    Git Course Start
