@@ -46,6 +46,7 @@ class MainActivity : AppCompatActivity() {
     I check Staged Changes
 
     Check Rebase Changes for file
+    new code
 *
 *
 *
