@@ -41,6 +41,9 @@ class MainActivity : AppCompatActivity() {
     I check Staged Changes
     Write Code in Staged Changes
 
+    After Creating a new branch
+    I check Staged Changes
+
 *
 *
 *
