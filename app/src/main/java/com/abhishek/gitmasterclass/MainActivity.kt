@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
 
     After Creating a new branch
     I check Staged Changes
+    Write Code in Staged Changes
 
 *
 *
