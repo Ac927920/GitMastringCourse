@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
     After Creating a new branch
     I check Staged Changes
 
+    Check Rebase Changes for file
 *
 *
 *
