@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
     Check Git Undo Commit Added Changes
 
     After Creating a new branch
-
+    I check Staged Changes
 
 *
 *
