@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
     git reset --soft HEAD^ = Undo last commit but keep changes.
 
     Check Git Undo Commit Added Changes
+    Test Commit on Conflicts Changes Code.
 
     After Creating a new branch
     I check Staged Changes
