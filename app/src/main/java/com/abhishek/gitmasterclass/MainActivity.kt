@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 /*
-    Git Course
+    Git Coursec
     git log = Showing all commits.
     git status = Showing status of commits and working on project.
     git add <filename> = Adding file to staging area.
@@ -37,6 +37,8 @@ class MainActivity : AppCompatActivity() {
 
     Check Git Undo Commit Added Changes
     Check Git Conflicts Changes
+
+    That code Write in Master branch
 
 *
 *
