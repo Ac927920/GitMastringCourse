@@ -21,6 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "GitMasterClass"
 include(":app")
-
-// Git master Class
- // Just Test data
